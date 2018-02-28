@@ -6,3 +6,4 @@ C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data\obj\Debug
 C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.AssemblyInfo.cs
 C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.dll
 C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.pdb
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data\obj\Debug\netstandard2.0\Infrastructure.Data.csprojResolveAssemblyReference.cache
