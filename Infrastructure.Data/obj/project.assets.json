@@ -3422,11 +3422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj",
+      "projectUniqueName": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj",
       "projectName": "Infrastructure.Data",
-      "projectPath": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj",
+      "projectPath": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\obj\\",
+      "outputPath": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

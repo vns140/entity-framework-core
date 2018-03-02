@@ -6350,11 +6350,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\Infrastructure.Data.Test.csproj",
+      "projectUniqueName": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\Infrastructure.Data.Test.csproj",
       "projectName": "Infrastructure.Data.Test",
-      "projectPath": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\Infrastructure.Data.Test.csproj",
+      "projectPath": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\Infrastructure.Data.Test.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\obj\\",
+      "outputPath": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6373,8 +6373,8 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj": {
-              "projectPath": "c:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj"
+            "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj": {
+              "projectPath": "C:\\projetos\\estudos\\net-core\\entity-framework-core\\Infrastructure.Data\\Infrastructure.Data.csproj"
             }
           }
         }
