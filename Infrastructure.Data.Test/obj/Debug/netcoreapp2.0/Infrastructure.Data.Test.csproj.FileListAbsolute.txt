@@ -1,0 +1,15 @@
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.Test.deps.json
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.Test.runtimeconfig.json
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.Test.runtimeconfig.dev.json
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.Test.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.Test.pdb
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\bin\Debug\netcoreapp2.0\Infrastructure.Data.pdb
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\obj\Debug\netcoreapp2.0\Infrastructure.Data.Test.csproj.CoreCompileInputs.cache
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\obj\Debug\netcoreapp2.0\Infrastructure.Data.Test.AssemblyInfoInputs.cache
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\obj\Debug\netcoreapp2.0\Infrastructure.Data.Test.AssemblyInfo.cs
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\obj\Debug\netcoreapp2.0\Infrastructure.Data.Test.dll
+C:\projetos\estudos\net-core\entity-framework-core\Infrastructure.Data.Test\obj\Debug\netcoreapp2.0\Infrastructure.Data.Test.pdb
