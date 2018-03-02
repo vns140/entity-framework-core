@@ -11,8 +11,8 @@ namespace Infrastructure.Data.Test
         public void DeveDividir()
         {            
            int resultado = 2/4;   
-                 
-           Assert.AreEqual(0,resultado);
+
+           Assert.AreEqual(6,resultado);
         }
     }
 }
