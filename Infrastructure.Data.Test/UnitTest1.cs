@@ -12,7 +12,7 @@ namespace Infrastructure.Data.Test
         {            
            int resultado = 2/4;   
 
-           Assert.AreEqual(6,resultado);
+           Assert.AreEqual(0,resultado);
         }
     }
 }
