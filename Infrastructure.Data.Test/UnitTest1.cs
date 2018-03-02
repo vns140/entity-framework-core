@@ -10,7 +10,8 @@ namespace Infrastructure.Data.Test
         [TestMethod]
         public void DeveDividir()
         {            
-           int resultado = 2/4;         
+           int resultado = 2/4;   
+                 
            Assert.AreEqual(0,resultado);
         }
     }
